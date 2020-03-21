@@ -6,7 +6,7 @@ body {
 }
 #brand, 
 .navbar-brand {
-  background-color: #58a9a2;
+  background-color: #4c3a9e;
   font-weight: bold;
   font-size: xx-large;
   font-family: 'Times New Roman', Times, serif;
@@ -44,7 +44,7 @@ a:hover {
   font-size: 1.7em;
   font-weight: bold;
   padding: 15px 0px 0px 15px;
-  color: #4aaaa5;
+  color: #4c3a9e;
 }
 
 #about hr {
@@ -74,7 +74,7 @@ ul {
   font-size: 1.7em;
   font-weight: bold;
   padding: 0px 0px 0px 15px;
-  color: #4aaaa5;
+  color: #4c3a9e;
 }
 
 #portfolio hr {
@@ -114,7 +114,7 @@ ul {
   font-size: 1.7em;
   font-weight: bold;
   padding: 15px 0px 0px 15px;
-  color: #4aaaa5;
+  color: #4c3a9e;
 }
 
 #contact hr {
@@ -173,7 +173,7 @@ ul {
   color: #fff;
   width: 70px;
   height: 30px;
-  background: #4aaaa5;
+  background: #4c3a9e;
   border: none;
   margin-top: 5px;
   border-radius: 2px;
@@ -182,7 +182,7 @@ ul {
 
 #submit:hover {
   cursor: pointer;
-  background-color: #3a8783;
+  background-color: #4c3a9e;
 }
 
 .flex-row {
